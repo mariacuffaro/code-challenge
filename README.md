@@ -40,5 +40,5 @@ To import these, select `File -> Project Structure -> Libraries` and select the 
 2. Select `Build -> Build Project` from the toolbar, or press `Ctrl+F9`
 
 ## 6. Run the tests
-1. Display `formatTimeTeests.java` by navigating through the left-side project tree to `CodingChallenge/src/main/` and double-clicking on the file
+1. Display `formatTimeTests.java` by navigating through the left-side project tree to `CodingChallenge/src/main/` and double-clicking on the file
 2. Select `Run -> Run formatTimeTests` from the toolbar, or press `Sft+F10`
