@@ -29,7 +29,7 @@ For example they may be in the path below:
 ### Importing
 Only the following libraries are needed. The versions below are those used to originally test the code; later versions may also work.
 
-To import these, select `File -> Project Structure -> Libraries` and select the `+` icon. `Ctrl+click` the below:
+To import these, select `File -> Project Structure -> Modules` and select the `+` icon. `Ctrl+click` the below:
 
  1. `..\JetBrains\IntelliJ IDEA Community Edition 2018.2.6\lib\hamcrest-core-1.3.jar`
  2. `..\\JetBrains\IntelliJ IDEA Community Edition 2018.2.6\lib\junit-4.12.jar`
